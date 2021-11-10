@@ -1,0 +1,20 @@
+{
+  "files": {
+    ".replit": [
+      {
+        "id": "3a559b26-5db9-4534-9e4e-efec2be5c775",
+        "line": 2,
+        "version": 1,
+        "index": 20
+      }
+    ],
+    "src/exercise4/ArrayOutput.java": [
+      {
+        "id": "07833fd7-46f9-4497-b539-7a8140d4dd36",
+        "line": 1,
+        "version": 168,
+        "index": 0
+      }
+    ]
+  }
+}
